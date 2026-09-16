@@ -1,4 +1,4 @@
-# Amazon_Landing_Page
+# Amazon
 
 An Amazon-inspired landing page built with **HTML & CSS**.  
 
